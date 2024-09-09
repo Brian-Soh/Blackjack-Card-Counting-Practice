@@ -59,7 +59,7 @@ A 2_of_hearts has been dealt to the Dealer! \
 Wed Aug 07 02:26:44 PDT 2024 \
 Game Over! Game deck has been cleared! \
 Wed Aug 07 02:26:46 PDT 2024 \
-A game deck consisting of 156 cards has been loaded \
+A game deck consisting of 156 cards has been loaded
 
 ## Project Reflection
 
