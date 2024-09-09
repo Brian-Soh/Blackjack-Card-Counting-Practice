@@ -14,7 +14,7 @@ Card counting in Blackjack is a proven method for gaining an edge at the casino.
 
 A month before my 19th birthday, I came upon a book titled "How to Win at Casino Gambling" which outlined card counting and blackjack basic strategy. Since then, the 2 months following my birthday were a rollercoaster of emotions as my friends and I had countless outings at the casino. However, I am glad to say that we are all still net positive despite all the ups and downs. Card counting has not only allowed me to enjoy the perks of being legal age, but it has also helped me strengthen friendships and create unforgettable memories.
 
-# What is Card Counting?
+## What is Card Counting?
 Blackjack is often played with 2-6 decks. In these decks, there are a set amount of high and low cards. Since that the dealer must keep hitting until they reach a total of 17 or higher, the more high cards there are in the deck, the more of a chance they bust; hence, the player will gain a marginal edge. High cards are assigned a positive value and low cards are assigned a negative value. Card counting keeps track of all cards that have been dealt and a high count signals to a player when it is a good time to bet big.
 
 The cards are given the following values: - [2-6] are considered +1 - [7-9] are considered 0 - [10, J, Q, K, A] are considered -1
