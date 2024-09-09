@@ -46,20 +46,20 @@ Yours truly
 
 ## Sample Event Log
 
-Wed Aug 07 02:26:33 PDT 2024
-A game deck consisting of 3 decks (156 cards) has been created!
-Wed Aug 07 02:26:35 PDT 2024
-A game deck consisting of 156 cards has been saved!
-Wed Aug 07 02:26:36 PDT 2024
-A game deck consisting of 156 cards has been loaded
-Wed Aug 07 02:26:40 PDT 2024
-A king_of_spades has been dealt to the Player!
-Wed Aug 07 02:26:40 PDT 2024
-A 2_of_hearts has been dealt to the Dealer!
-Wed Aug 07 02:26:44 PDT 2024
-Game Over! Game deck has been cleared!
-Wed Aug 07 02:26:46 PDT 2024
-A game deck consisting of 156 cards has been loaded
+Wed Aug 07 02:26:33 PDT 2024 \
+A game deck consisting of 3 decks (156 cards) has been created! \
+Wed Aug 07 02:26:35 PDT 2024 \
+A game deck consisting of 156 cards has been saved! \
+Wed Aug 07 02:26:36 PDT 2024 \
+A game deck consisting of 156 cards has been loaded \
+Wed Aug 07 02:26:40 PDT 2024 \
+A king_of_spades has been dealt to the Player! \
+Wed Aug 07 02:26:40 PDT 2024 \
+A 2_of_hearts has been dealt to the Dealer! \
+Wed Aug 07 02:26:44 PDT 2024 \
+Game Over! Game deck has been cleared! \
+Wed Aug 07 02:26:46 PDT 2024 \
+A game deck consisting of 156 cards has been loaded \
 
 ## Project Reflection
 
