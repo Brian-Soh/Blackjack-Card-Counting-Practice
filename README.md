@@ -8,7 +8,7 @@ This application will serve 2 overarching purposes:
 
 ## Introduction
 
-Card counting in Blackjack is a proven method for gaining an edge at the casino. While the advantage is marginal and can often backfire due to variance, it is a unique skill that serves more as a good omen than a gurantee of making money during casino trips. I am creating this project as a memento of being 19 and pave the way for anyone who wants to delve into the world of casino gambling. (This README file assumes that the reader is familiar with the caveats of Blackjack)
+Card counting in Blackjack is a proven method for gaining an edge at the casino. While the advantage is marginal and can often backfire due to variance, it is a unique skill that serves more as a good omen than a gurantee of making money during casino trips. I am creating this project as a memento of being 19 and pave the way for anyone who wants to delve into the world of casino gambling. Click [here](https://youtu.be/wsBcOIIEG-8) for a demo!
 
 ## Personal Interest
 
